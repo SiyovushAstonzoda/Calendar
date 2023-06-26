@@ -1,0 +1,15 @@
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Aston\OneDrive\Рабочий стол\C# 2\Practice OOP C#\OOP 7 (Calendar)\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
